@@ -66,10 +66,7 @@ def scrape_product(URL):
 
 if __name__ == "__main__":  
     urls = [
-        "https://www.amazon.com/Sony-PlayStation-Pro-1TB-Console-4/dp/B07K14XKZH/",
-        "https://www.amazon.com/dp/B08FC5L3RG",
-        "https://www.amazon.com/dp/B08FC6MR62",
-        "https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/"#sample products
+        "product links"#sample products
     ]
 
     filename = "amazon_products.xls"
